@@ -1,0 +1,86 @@
+commit f862da345425b45056369da583e59fcc329c5890
+Author: uol <catred11azul@gmail.com>
+Date:   Fri Sep 16 16:00:05 2022 -0500
+
+    Agregando dos parrafos
+
+commit bfee2780d29fc8bf5e9ee95ce9a5d04e50a475c4
+Merge: 9c60f77 a2aa762
+Author: uol <catred11azul@gmail.com>
+Date:   Fri Sep 16 15:54:59 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 9c60f774502a4766e23631cbe4d32b08accf5c79
+Author: uol <catred11azul@gmail.com>
+Date:   Fri Sep 16 15:24:49 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit a2aa762fd011d69b6b2f140e3cb27a7de1f9b075
+Author: uol <catred11azul@gmail.com>
+Date:   Fri Sep 16 15:24:49 2022 -0500
+
+    Agregando las estaciones del año
+
+commit c2ec195712d0c84f2e9580a7d79cf388e52b103e
+Merge: 33df8c2 43d2617
+Author: uol <catred11azul@gmail.com>
+Date:   Fri Sep 16 13:56:01 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 43d2617846f93533bffcfd1a7b92e72b638c51b3
+Author: uol <catred11azul@gmail.com>
+Date:   Fri Sep 16 13:40:35 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 33df8c23c19fe456f1be90abbbc6c31a0927a3c3
+Author: uol <catred11azul@gmail.com>
+Date:   Fri Sep 16 13:35:29 2022 -0500
+
+    Agregando style.css al index.html
+
+commit e91b63cc75ef084e3049546959a78ade9d764888
+Merge: b4e0d69 4f903d8
+Author: uol <catred11azul@gmail.com>
+Date:   Thu Sep 15 19:43:46 2022 -0500
+
+    Merge branch 'js'
+
+commit 4f903d8c3b7503e042453c4a2912d826ea023e3b
+Author: uol <catred11azul@gmail.com>
+Date:   Thu Sep 15 19:38:40 2022 -0500
+
+    Creando index.js
+
+commit b4e0d69e4af07077180d459f035f51fbb7bc8c3b
+Author: uol <catred11azul@gmail.com>
+Date:   Thu Sep 15 19:14:44 2022 -0500
+
+    Creando style.css
+
+commit 09a5414f1c73eee889103d187d8d3d9c89d10d4b
+Author: uol <catred11azul@gmail.com>
+Date:   Thu Sep 15 18:41:32 2022 -0500
+
+    Creando archivo index.html
+
+commit 9c641a7429510d91d168d73751808d09c1e13dce
+Author: uolwo <83928607+uolwo@users.noreply.github.com>
+Date:   Mon Sep 12 14:45:43 2022 -0500
+
+    Crear licencia del repositorio
+
+commit d7541c78384e7e70fa951f065c14dd5c771ba43f
+Author: uol <catred11azul@gmail.com>
+Date:   Mon Sep 12 14:32:45 2022 -0500
+
+    Agregando mas contenido al README
+
+commit a86e207ff90d4ec74532b5042055ce1f799a0fbf
+Author: uol <catred11azul@gmail.com>
+Date:   Mon Sep 12 13:47:13 2022 -0500
+
+    Agregando contenido inicial al README
